@@ -32,9 +32,9 @@ export default function Navbar() {
 
                 <div className='text-6xl '>
                     <Link href='/'>
-                        <img src="/jvec_logo.png"
-                            width={60}
-                            height={60}
+                        <img src="/pgrid.svg"
+                            width={200}
+                            height={100}
                             alt="image" />
 
                     </Link>

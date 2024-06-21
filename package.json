@@ -1,5 +1,6 @@
 {
-  "name": "my-project",
+  "name": "procuregrids",
+  "homepage": "https://procuregrids.com",
   "private": true,
   "version": "0.0.0",
   "type": "module",
