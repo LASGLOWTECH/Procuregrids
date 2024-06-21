@@ -7,7 +7,7 @@ import Footer from "./assets/Footer"
 
 function App() {
   
-  const targetDate = '2024-08-10T00:00:00Z';
+  const targetDate = '2024-11-10T00:00:00Z';
   return (
   
     <main className="min-h-screen p-16  flex items-center justify-center flex-col bg-gradient-to-r from-Armygreen to-darkBlue">
